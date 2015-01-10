@@ -40,6 +40,10 @@ var books = [
     'title': 'Неизвестный Стив. История Apple и ее сооснователя из первых рук'
   },
   {
+    'url':   'http://www.ozon.ru/context/detail/id/3991477/',
+    'title': 'McDonald\'s: Как создавалась империя'
+  },
+  {
     'url': 'http://www.litres.ru/bleyk-maykoski/ostav-svoy-sled-kak-postroit-kompaniu-kotoraya-menyaet-mir-k-luchshemu/',
     'title': 'Оставь свой след. Как построить компанию, которая меняет мир к лучшему'
   }
