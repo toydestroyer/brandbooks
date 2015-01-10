@@ -102,6 +102,24 @@ var books = [
       }
     ]
   },
+  {
+    name: 'Adidas',
+    books: [
+      {
+        url: 'http://www.litres.ru/barbara-smit-2/adidas-ili-puma-borba-bratev-za-mirovoe-liderstvo/',
+        title: 'Adidas или Puma? Борьба братьев за мировое лидерство'
+      }
+    ]
+  },
+  {
+    name: 'Puma',
+    books: [
+      {
+        url: 'http://www.litres.ru/barbara-smit-2/adidas-ili-puma-borba-bratev-za-mirovoe-liderstvo/',
+        title: 'Adidas или Puma? Борьба братьев за мировое лидерство'
+      }
+    ]
+  },
 ];
 
 var Book = React.createClass({
