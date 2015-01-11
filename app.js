@@ -36,6 +36,19 @@ var books = [
       {
         url:   'http://www.litres.ru/devid-kirkpatrik/socialnaya-set-kak-osnovatel-facebook-zarabotal-4-milliarda-i-priobrel-500-millionov-druzey/',
         title: 'Социальная сеть: как основатель Facebook заработал $ 4 миллиарда и приобрел 500 миллионов друзей'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/6746214/',
+        title: 'Миллиардеры поневоле. Альтернативная история создания Facebook'
+      }
+    ]
+  },
+  {
+    name: 'Google',
+    books: [
+      {
+        url:   'http://www.litres.ru/dzhanet-lau/google-proshloe-nastoyaschee-buduschee/',
+        title: 'Google. Прошлое. Настоящее. Будущее'
       }
     ]
   },
