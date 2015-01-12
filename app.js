@@ -137,7 +137,10 @@ var books = [
 
 var Book = React.createClass({
   render: function() {
-    var url = this.props.url + '?lfrom=28196679';
+    var url = this.props.url;
+    if (url.indexOf('litres') != -1) {
+      url += '?lfrom=28196679';
+    }
     return (
       <li className="book">
         <a href={url}>{this.props.children}</a>
