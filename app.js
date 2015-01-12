@@ -27,6 +27,10 @@ var books = [
       {
         url: 'http://www.litres.ru/govard-shulc/starbucks-navsegda/',
         title: 'Starbucks навсегда'
+      },
+      {
+        url: 'http://www.litres.ru/govard-behar/a-dacykova/delo-ne-v-kofe-korporativnaya-kultura-starbucks/',
+        title: 'Дело не в кофе: Корпоративная культура Starbucks'
       }
     ]
   },
@@ -49,6 +53,10 @@ var books = [
       {
         url:   'http://www.litres.ru/dzhanet-lau/google-proshloe-nastoyaschee-buduschee/',
         title: 'Google. Прошлое. Настоящее. Будущее'
+      },
+      {
+        url:   'http://www.ozon.ru/context/detail/id/4633378/',
+        title: 'Что сделал бы Google?'
       }
     ]
   },
@@ -85,6 +93,10 @@ var books = [
       {
         url:   'http://www.litres.ru/devid-prays/magiya-pixar/',
         title: 'Магия Pixar'
+      },
+      {
+        url:   'http://www.litres.ru/ed-ketmell/emi-uolles/korporaciya-geniev-kak-upravlyat-komandoy-tvorcheskih-ludey-2/',
+        title: 'Корпорация гениев. Как управлять командой творческих людей'
       }
     ]
   },
@@ -94,6 +106,10 @@ var books = [
       {
         url:   'http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/',
         title: 'Неизвестный Стив. История Apple и ее сооснователя из первых рук'
+      },
+      {
+        url: 'http://www.mann-ivanov-ferber.ru/books/paperbook/the_apple_expirience/',
+        title: 'Правила Apple. Принципы создания искренней лояльности'
       }
     ]
   },
@@ -130,6 +146,15 @@ var books = [
       {
         url: 'http://www.litres.ru/barbara-smit-2/adidas-ili-puma-borba-bratev-za-mirovoe-liderstvo/',
         title: 'Adidas или Puma? Борьба братьев за мировое лидерство'
+      }
+    ]
+  },
+  {
+    name: 'Procter & Gamble',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/5312456/',
+        title: 'Procter & Gamble. Путь к успеху. 165-летний опыт построения брендов'
       }
     ]
   },
