@@ -139,9 +139,9 @@ var Book = React.createClass({
   render: function() {
     var url = this.props.url + '?lfrom=28196679';
     return (
-      <div className="book">
+      <li className="book">
         <a href={url}>{this.props.children}</a>
-      </div>
+      </li>
     );
   }
 });
@@ -157,8 +157,10 @@ var Brand = React.createClass({
     });
     return (
       <div className="brand">
-        <h1>{this.props.brand.name}</h1>
-        {bookNodes}
+        <h2>{this.props.brand.name}</h2>
+        <ul>
+          {bookNodes}
+        </ul>
       </div>
     );
   }
@@ -181,5 +183,5 @@ var BookList = React.createClass({
 
 React.render(
   <BookList books={books} />,
-  document.body
+  document.getElementById('app')
 );
