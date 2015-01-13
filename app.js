@@ -5,6 +5,10 @@ var books = [
       {
         url: 'http://www.litres.ru/devid-bizli/nevil-isdell/vnutri-coca-cola-istoriya-brenda-1-glazami-legendarnogo-ceo/',
         title: 'Внутри Coca-Cola. История бренда № 1 глазами легендарного CEO'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/8261254/',
+        title: 'Coca Cola. Грязная правда'
       }
     ]
   },
@@ -14,6 +18,10 @@ var books = [
       {
         url: 'http://www.litres.ru/anders-dalvig/ikea-soberi-svou-mechtu-kak-sovmestit-otvetstvennost-i-pribyl-v-odnoy-kompanii/',
         title: 'ИКЕА: собери свою мечту. Как совместить ответственность и прибыль в одной компании'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/5019352/',
+        title: 'Вопреки абсурду. Как я покорял Россию, а она — меня'
       }
     ]
   },
