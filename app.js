@@ -166,6 +166,15 @@ var books = [
       }
     ]
   },
+  {
+    name: 'id Software',
+    books: [
+      {
+        url: 'http://www.litres.ru/devid-kushner/vlasteliny-doom-kak-dvoe-parney-sozdali-igrovuu-industriu-i-vospitali-celoe-pokolenie-geymerov/',
+        title: 'Властелины Doom. Как двое парней создали игровую индустрию и воспитали целое поколение геймеров'
+      }
+    ]
+  }
 ];
 
 var Book = React.createClass({
