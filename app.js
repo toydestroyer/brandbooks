@@ -112,6 +112,10 @@ var books = [
     name: 'Apple',
     books: [
       {
+        url:   'http://www.litres.ru/uolter-ayzekson/stiv-dzhobs/',
+        title: 'Стив Джобс'
+      },
+      {
         url:   'http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/',
         title: 'Неизвестный Стив. История Apple и ее сооснователя из первых рук'
       },
