@@ -178,6 +178,15 @@ var books = [
         title: 'Властелины Doom. Как двое парней создали игровую индустрию и воспитали целое поколение геймеров'
       }
     ]
+  },
+  {
+    name: 'WikiLeaks',
+    books: [
+      {
+        url: 'http://www.litres.ru/dzhulian-assanzh/dzhulian-assanzh-neavtorizovannaya-avtobiografiya/',
+        title: 'Джулиан Ассанж: Неавторизованная автобиография'
+      }
+    ]
   }
 ];
 
