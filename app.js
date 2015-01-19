@@ -187,6 +187,15 @@ var books = [
         title: 'Джулиан Ассанж: Неавторизованная автобиография'
       }
     ]
+  },
+  {
+    name: 'Яндекс',
+    books: [
+      {
+        url: 'http://www.litres.ru/dmitriy-sokolov-mitrich/yandeks-kniga/',
+        title: 'Яндекс.Книга'
+      }
+    ]
   }
 ];
 
