@@ -194,6 +194,10 @@ var books = [
       {
         url: 'http://www.litres.ru/dmitriy-sokolov-mitrich/yandeks-kniga/',
         title: 'Яндекс.Книга'
+      },
+      {
+        url: 'http://www.litres.ru/vladislav-dorofeev/yandeks-volozha-istoriya-sozdaniya-kompanii-mechty-2/',
+        title: 'Яндекс Воложа. История создания компании мечты'
       }
     ]
   }
