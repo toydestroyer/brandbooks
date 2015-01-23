@@ -22,6 +22,10 @@ var books = [
       {
         url: 'http://www.ozon.ru/context/detail/id/5019352/',
         title: 'Вопреки абсурду. Как я покорял Россию, а она — меня'
+      },
+      {
+        url: 'http://www.litres.ru/bertil-torekul/ingvar-kamprad/est-ideya-istoriya-ikea/',
+        title: 'Есть идея! История ИКЕА'
       }
     ]
   },
