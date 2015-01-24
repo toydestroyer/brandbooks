@@ -204,6 +204,15 @@ var books = [
         title: 'Яндекс Воложа. История создания компании мечты'
       }
     ]
+  },
+  {
+    name: 'Subway',
+    books: [
+      {
+        url: 'http://www.litres.ru/dzhon-heyz/fred-deluka/nachni-s-malogo-pravila-vedeniya-biznesa-ot-osnovatelya-subway/',
+        title: 'Начни с малого. Правила ведения бизнеса от основателя Subway'
+      }
+    ]
   }
 ];
 
