@@ -213,6 +213,15 @@ var books = [
         title: 'Начни с малого. Правила ведения бизнеса от основателя Subway'
       }
     ]
+  },
+  {
+    name: 'Virgin',
+    books: [
+      {
+        url: 'http://www.litres.ru/richard-brenson/biznes-v-stile-virgin-chemu-vas-ne-nauchat-v-biznes-shkole/',
+        title: 'Бизнес в стиле Virgin. Чему вас не научат в бизнес-школе'
+      }
+    ]
   }
 ];
 
