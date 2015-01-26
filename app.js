@@ -109,6 +109,10 @@ var books = [
       {
         url:   'http://www.litres.ru/ed-ketmell/emi-uolles/korporaciya-geniev-kak-upravlyat-komandoy-tvorcheskih-ludey-2/',
         title: 'Корпорация гениев. Как управлять командой творческих людей'
+      },
+      {
+        url:   'http://www.litres.ru/vilyam-saymon/dzheffri-yang/ikona-stiv-dzhobs/',
+        title: 'iКона. Стив Джобс'
       }
     ]
   },
@@ -126,6 +130,10 @@ var books = [
       {
         url: 'http://www.mann-ivanov-ferber.ru/books/paperbook/the_apple_expirience/',
         title: 'Правила Apple. Принципы создания искренней лояльности'
+      },
+      {
+        url:   'http://www.litres.ru/vilyam-saymon/dzheffri-yang/ikona-stiv-dzhobs/',
+        title: 'iКона. Стив Джобс'
       }
     ]
   },
