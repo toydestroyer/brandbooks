@@ -230,6 +230,15 @@ var books = [
         title: 'Бизнес в стиле Virgin. Чему вас не научат в бизнес-школе'
       }
     ]
+  },
+  {
+    name: 'Sony',
+    books: [
+      {
+        url: 'http://www.litres.ru/akio-morita/sony-sdelano-v-yaponii-2/',
+        title: 'Sony. Сделано в Японии'
+      }
+    ]
   }
 ];
 
