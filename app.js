@@ -228,6 +228,10 @@ var books = [
       {
         url: 'http://www.litres.ru/richard-brenson/biznes-v-stile-virgin-chemu-vas-ne-nauchat-v-biznes-shkole/',
         title: 'Бизнес в стиле Virgin. Чему вас не научат в бизнес-школе'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/4621575/',
+        title: 'Обнаженный бизнес'
       }
     ]
   },
