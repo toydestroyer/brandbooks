@@ -69,6 +69,10 @@ var books = [
       {
         url:   'http://www.ozon.ru/context/detail/id/4633378/',
         title: 'Что сделал бы Google?'
+      },
+      {
+        url:   'http://www.ozon.ru/context/detail/id/3177042/',
+        title: 'Google. Прорыв в духе времени'
       }
     ]
   },
