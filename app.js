@@ -34,7 +34,8 @@ var books = [
     books: [
       {
         url: 'http://www.litres.ru/govard-shulc/dori-dzhons-yeng/kak-chashka-za-chashkoy-stroilas-starbucks/',
-        title: 'Как чашка за чашкой строилась Starbucks'
+        title: 'Как чашка за чашкой строилась Starbucks',
+        alt: 'http://www.mann-ivanov-ferber.ru/books/sse/starbucks/'
       },
       {
         url: 'http://www.litres.ru/govard-shulc/starbucks-navsegda/',
@@ -43,6 +44,10 @@ var books = [
       {
         url: 'http://www.litres.ru/govard-behar/a-dacykova/delo-ne-v-kofe-korporativnaya-kultura-starbucks/',
         title: 'Дело не в кофе: Корпоративная культура Starbucks'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/4292534/',
+        title: 'Как Старбакс спас мне жизнь'
       }
     ]
   },
@@ -138,6 +143,10 @@ var books = [
       {
         url:   'http://www.litres.ru/vilyam-saymon/dzheffri-yang/ikona-stiv-dzhobs/',
         title: 'iКона. Стив Джобс'
+      },
+      {
+        url: 'http://www.mann-ivanov-ferber.ru/books/paperbook/presentationsecretsofstevejobs2/',
+        title: 'iПрезентация'
       }
     ]
   },
@@ -236,6 +245,18 @@ var books = [
       {
         url: 'http://www.ozon.ru/context/detail/id/4621575/',
         title: 'Обнаженный бизнес'
+      },
+      {
+        url: 'http://www.alpinabook.ru/catalogue/338020/',
+        title: 'Теряя невинность: Как я построил бизнес, делая все по-своему и получая удовольствие от жизни'
+      },
+      {
+        url: 'http://www.alpinabook.ru/catalogue/8604/',
+        title: 'К черту всё! Берись и делай!'
+      },
+      {
+        url: 'http://www.alpinabook.ru/catalogue/739203/',
+        title: 'К черту «бизнес как всегда»'
       }
     ]
   },
@@ -245,6 +266,28 @@ var books = [
       {
         url: 'http://www.litres.ru/akio-morita/sony-sdelano-v-yaponii-2/',
         title: 'Sony. Сделано в Японии'
+      }
+    ]
+  },
+  {
+    name: 'Wal-Mart',
+    books: [
+      {
+        url: 'http://www.alpinabook.ru/catalogue/4789/',
+        title: 'Как я создал Wal-Mart'
+      }
+    ]
+  },
+  {
+    name: 'Ogilvy & Mather',
+    books: [
+      {
+        url: 'http://www.mann-ivanov-ferber.ru/books/paperbook/confession-of-an-advertising-man/',
+        title: 'Откровения рекламного агента'
+      },
+      {
+        url: 'http://www.mann-ivanov-ferber.ru/books/paperbook/ogilvi-o-reklame/',
+        title: 'Огилви о рекламе'
       }
     ]
   }
