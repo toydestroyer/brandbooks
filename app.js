@@ -290,6 +290,15 @@ var books = [
         title: 'Огилви о рекламе'
       }
     ]
+  },
+  {
+    name: 'Amazon.com',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3029702/',
+        title: '32 покупателя в секунду, или Как Amazon.com достиг миллиардных продаж'
+      }
+    ]
   }
 ];
 
