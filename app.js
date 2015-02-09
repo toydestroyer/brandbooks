@@ -299,6 +299,15 @@ var books = [
         title: '32 покупателя в секунду, или Как Amazon.com достиг миллиардных продаж'
       }
     ]
+  },
+  {
+    name: 'Nokia',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3381085/',
+        title: 'Nokia. Секреты самой быстро растущей компании в мире'
+      }
+    ]
   }
 ];
 
