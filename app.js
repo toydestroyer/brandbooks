@@ -26,6 +26,10 @@ var books = [
       {
         url: 'http://www.litres.ru/bertil-torekul/ingvar-kamprad/est-ideya-istoriya-ikea/',
         title: 'Есть идея! История ИКЕА'
+      },
+      {
+        url: 'http://www.litres.ru/bertil-torekul/saga-ob-ikea/',
+        title: 'Сага об ИКЕА'
       }
     ]
   },
