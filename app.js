@@ -312,6 +312,15 @@ var books = [
         title: 'Nokia. Секреты самой быстро растущей компании в мире'
       }
     ]
+  },
+  {
+    name: 'Disney',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/2779016/',
+        title: 'Война за империю Disney'
+      }
+    ]
   }
 ];
 
