@@ -321,6 +321,15 @@ var books = [
         title: 'Война за империю Disney'
       }
     ]
+  },
+  {
+    name: 'BMW',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/5689129/',
+        title: 'BMW. История семьи Квандт, возродившей компанию'
+      }
+    ]
   }
 ];
 
