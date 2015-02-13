@@ -160,6 +160,10 @@ var books = [
       {
         url:   'http://www.ozon.ru/context/detail/id/3991477/',
         title: 'McDonald\'s: Как создавалась империя'
+      },
+      {
+        url:   'http://www.ozon.ru/context/detail/id/3115344/',
+        title: 'McDonald\'s. О чем молчит БИГМАК?'
       }
     ]
   },
