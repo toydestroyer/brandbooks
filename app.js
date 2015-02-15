@@ -352,6 +352,15 @@ var books = [
         title: 'Джек. Мои годы в GE'
       }
     ]
+  },
+  {
+    name: 'Sun',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3381091/',
+        title: 'Sun. Секреты мегабренда новой экономики'
+      }
+    ]
   }
 ];
 
