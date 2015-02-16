@@ -345,6 +345,10 @@ var books = [
       {
         url: 'http://www.ozon.ru/context/detail/id/1901992/',
         title: 'От Dell без посредников. Стратегии, которые совершили революцию в компьютерной индустрии'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3381088/',
+        title: 'Dell. Секреты лучшего в мире компьютерного бизнеса'
       }
     ]
   },
