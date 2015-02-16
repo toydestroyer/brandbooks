@@ -305,6 +305,10 @@ var books = [
       {
         url: 'http://www.ozon.ru/context/detail/id/3029702/',
         title: '32 покупателя в секунду, или Как Amazon.com достиг миллиардных продаж'
+      },
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3381089/',
+        title: 'Amazon.com. Секреты самого успешного в мире веб-бизнеса'
       }
     ]
   },
