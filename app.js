@@ -369,6 +369,15 @@ var books = [
         title: 'Sun. Секреты мегабренда новой экономики'
       }
     ]
+  },
+  {
+    name: 'Yahoo!',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/3381087/',
+        title: 'Yahoo! Секреты самой популярной в мире интернет-компании'
+      }
+    ]
   }
 ];
 
