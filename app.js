@@ -378,6 +378,15 @@ var books = [
         title: 'Yahoo! Секреты самой популярной в мире интернет-компании'
       }
     ]
+  },
+  {
+    name: 'Philips',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/154991/',
+        title: 'Формула успеха'
+      }
+    ]
   }
 ];
 
