@@ -343,6 +343,15 @@ var books = [
         title: 'От Dell без посредников. Стратегии, которые совершили революцию в компьютерной индустрии'
       }
     ]
+  },
+  {
+    name: 'General Electric',
+    books: [
+      {
+        url: 'http://www.ozon.ru/context/detail/id/2900690/',
+        title: 'Джек. Мои годы в GE'
+      }
+    ]
   }
 ];
 
