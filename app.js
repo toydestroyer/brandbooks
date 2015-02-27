@@ -1,3 +1,136 @@
+var brands = [
+  {
+    id: 'coca-cola',
+    name: 'Coca-Cola'
+  },
+  {
+    id: 'ikea',
+    name: 'IKEA'
+  },
+  {
+    id: 'starbucks',
+    name: 'Starbucks'
+  },
+  {
+    id: 'facebook',
+    name: 'Facebook'
+  },
+  {
+    id: 'google',
+    name: 'Google'
+  },
+  {
+    id: 'zappos',
+    name: 'Zappos'
+  },
+  {
+    id: 'ford',
+    name: 'Ford'
+  },
+  {
+    id: 'mckinsey',
+    name: 'McKinsey'
+  },
+  {
+    id: 'pixar',
+    name: 'Pixar'
+  },
+  {
+    id: 'apple',
+    name: 'Apple'
+  },
+  {
+    id: 'mcdonalds',
+    name: 'McDonald\'s'
+  },
+  {
+    id: 'toms',
+    name: 'TOMS'
+  },
+  {
+    id: 'adidas',
+    name: 'Adidas'
+  },
+  {
+    id: 'puma',
+    name: 'Puma'
+  },
+  {
+    id: 'procter-and-gamble',
+    name: 'Procter & Gamble'
+  },
+  {
+    id: 'id-software',
+    name: 'id Software'
+  },
+  {
+    id: 'wikileaks',
+    name: 'WikiLeaks'
+  },
+  {
+    id: 'yandex',
+    name: 'Яндекс'
+  },
+  {
+    id: 'subway',
+    name: 'Subway'
+  },
+  {
+    id: 'virgin',
+    name: 'Virgin'
+  },
+  {
+    id: 'sony',
+    name: 'Sony'
+  },
+  {
+    id: 'walmart',
+    name: 'Wal-Mart'
+  },
+  {
+    id: 'ogilvy-and-mather',
+    name: 'Ogilvy & Mather'
+  },
+  {
+    id: 'amazon.com',
+    name: 'Amazon.com'
+  },
+  {
+    id: 'nokia',
+    name: 'Nokia'
+  },
+  {
+    id: 'disney',
+    name: 'Disney'
+  },
+  {
+    id: 'bmw',
+    name: 'BMW'
+  },
+  {
+    id: 'dell',
+    name: 'Dell'
+  },
+  {
+    id: 'general-electric',
+    name: 'General Electric'
+  },
+  {
+    id: 'sun',
+    name: 'Sun'
+  },
+  {
+    id: 'yahoo',
+    name: 'Yahoo!'
+  },
+  {
+    id: 'philips',
+    name: 'Philips'
+  }
+];
+
+entries = [];
+
 var books = [
   {
     name: 'Coca-Cola',
